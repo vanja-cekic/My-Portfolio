@@ -1,6 +1,6 @@
 # Vanja Cekić | Portfolio
 
-**Live Website:** [https://imakamai.github.io/My-Portfolio/](https://imakamai.github.io/My-Portfolio/)
+**Live Website:** [https://vanja-cekic.github.io/My-Portfolio/](https://vanja-cekic.github.io/My-Portfolio/)
 
 A minimal, brutalist-inspired personal portfolio website built to showcase my expertise in full-stack and backend development, emphasizing clean architecture and efficiency.
 
